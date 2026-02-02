@@ -1,0 +1,29 @@
+# Dart/Flutter
+.dart_tool/
+.flutter-plugins
+.packages
+*.lock
+build/
+ios/
+android/
+web/
+windows/
+macos/
+linux/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Media files (mkv, mp4, etc)
+*.mkv
+*.mp4
+*.mov
+*.avi
+
+# PDF files
+*.pdf
