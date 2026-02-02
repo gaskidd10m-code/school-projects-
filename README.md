@@ -2,10 +2,7 @@
 
 A collection of Dart projects for school assignments, focusing on mathematical problem solving and algorithm implementation.
 
-## Projects
-
 ### Quadratic Equation Solver
-**File:** `FCM.41.018.038.24.dart`
 
 A comprehensive Dart console application that solves quadratic equations of the form `ax² + bx + c = 0` using the quadratic formula.
 
@@ -24,10 +21,6 @@ x = (-b ± √(b² - 4ac)) / 2a
    - Returns one root if discriminant = 0
    - Reports complex roots if discriminant < 0
 
-#### Usage
-```bash
-dart run FCM.41.018.038.24.dart
-```
 
 **Example Input/Output:**
 ```
@@ -38,7 +31,4 @@ Enter c: 6
 Two distinct real roots: 3.0 and 2.0
 ```
 ## Author
-**gaskidd10m-code**
-
-## License
-This project is provided for educational purposes.
+**FCM.41.018.038.24.dart**
